@@ -51,11 +51,11 @@ min-height: 100vh;
     background-color: black;
     color:aqua;
     height: 90%;
+    width: 60%;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-size: 1.2rem;
     /* font-size: 1.5rem; */
-}
-.btn-lg:hover{
+}.btn-lg:hover{
     border-radius: 10px ;
     background-color:aqua;
     color: black;
