@@ -61,9 +61,8 @@ min-height: 100vh;
     background-color:aqua;
     color: black;
     height: 90%;
-    width: 80%;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    font-size: 1.5rem;
+    font-size: 1rem;
 }
 .totalfare{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
@@ -73,7 +72,7 @@ min-height: 100vh;
     /* background-color: bisque; */
     
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    font-size: 2.1rem;
+    font-size: 1.5rem;
     
 }
 .output-area{
@@ -100,10 +99,17 @@ min-height: 100vh;
 }
 
 #googleMap{
-    margin-top: 2%;
+    margin-top: 15%;
     /* border: 1px solid red; */
-    margin-left: 10%;
-    width: 80%;
+    margin-left: 5%;
+    width: 90%;
     height: 300px;
     border-radius: 50px;
+    border: 1px solid aquamarine;
+}
+.footer{
+    margin-top: 10%;
+}
+.by{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
