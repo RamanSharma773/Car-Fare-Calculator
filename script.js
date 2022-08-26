@@ -51,7 +51,7 @@ function calcRoute(){
 
             let totalfare=calcfare();
             const output=document.querySelector('#output');
-            output.innerHTML="<div class='output-area' ><h1>Your Ride Details</h1><div class='output-info'>from: " +
+            output.innerHTML="<div class='output-area' ><h1>Your Ride Details</h1><div class='output-info'>From: " +
              document.getElementById("from").value+ 
              ".<br /> To: " + document.getElementById("to").value + 
              ".<br/> Driving Distance :"+result.routes[0].legs[0].distance.text +
